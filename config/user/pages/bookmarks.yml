@@ -230,10 +230,6 @@ categories:
             url: 'https://www.sublimetext.com/'
             icon: 'fas fa-file-code'
             description: '轻量级代码编辑器'
-          - name: 'WebStorm'
-            url: 'https://www.jetbrains.com/webstorm/'
-            icon: 'fab fa-js'
-            description: 'JetBrains前端IDE'
       - name: '版本控制'
         icon: 'fas fa-code-branch'
         sites:
@@ -245,7 +241,3 @@ categories:
             url: 'https://gitlab.com/'
             icon: 'fab fa-gitlab'
             description: 'Git代码管理平台'
-          - name: 'Bitbucket'
-            url: 'https://bitbucket.org/'
-            icon: 'fab fa-bitbucket'
-            description: 'Atlassian代码托管'
